@@ -1,21 +1,21 @@
 do
 
 function run(msg, matches)
-  return 'MegaShadow Telegram Bot v 1.0'.. [[ 
+  return 'Hidden Bot Telegram Bot v 1.0'.. [[ 
   
-  Antispam Bot: @MegaShadow
-  Sudo (Admin): @Ww_Pouria_Redteam_wW & @Mobin_Is_Died
+  Antispam Bot: @Hidden_Tg
+  Sudo (Admin):
+  @Ww_Pouria_Redteam_wW [Founder]
+  @djmjcj [Developer]
   
-  Thanks: @Bangi_died for get help and 
-  some plugins to us organizing MegaShadow
   ]]
 end
 
 return {
   description = "Robot and Creator About", 
-  usage = "Mega : robot info",
+  usage = "/Hidden : robot info",
   patterns = {
-    "^Mega$"
+    "^[!/]Hidden$"
   }, 
   run = run 
 }

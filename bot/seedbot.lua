@@ -260,14 +260,14 @@ function create_config( )
     "Welcome",
     "Sms"
     },
-    sudo_users = {175636120},--Sudo users
+    sudo_users = {175636120,175531746,211715313},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Red Bot
 
 Admins
 @Ww_Pouria_Redteam_wW [Founder]
-@imandaneshi [Developer]
+@Infernal_Detergent [Developer]
 @PEDRAM_redteam [Manager]
 ]],
     help_text_realm = [[

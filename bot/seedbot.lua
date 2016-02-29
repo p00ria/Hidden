@@ -228,6 +228,7 @@ function create_config( )
     "Add_Bot",
     "Add_Plugins",
     "Calculator",
+    "Chat",
     "Debian_Service",
     "Echo",
     "Get_Plugins",

@@ -258,31 +258,17 @@ function create_config( )
     "Version",
     "Webshot",
     "Welcome",
-    "Xy"
+    "Sms"
     },
-    sudo_users = {175636120,139837032},--Sudo users
+    sudo_users = {175636120},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[Red Bot
 
 Admins
-@iwals [Founder]
+@Ww_Pouria_Redteam_wW [Founder]
 @imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+@PEDRAM_redteam [Manager]
 ]],
     help_text_realm = [[
 Realm Commands:

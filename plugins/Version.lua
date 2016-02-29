@@ -1,21 +1,22 @@
 do
 
 function run(msg, matches)
-  return 'Hidden Bot Telegram Bot v 1.0'.. [[ 
+  return 'Red Bot Telegram Bot v 1.0'.. [[ 
   
-  Antispam Bot: @Hidden_Tg
+  Antispam Bot: @Red_Tg
   Sudo (Admin):
-  @Ww_Pouria_Redteam_wW [Founder]
-  @djmjcj [Developer]
+  @Ww_Pouria_Redteam_wW
+  @Infernal_Detergent
+  @PEDRAM_redteam
   
   ]]
 end
 
 return {
   description = "Robot and Creator About", 
-  usage = "/Hidden : robot info",
+  usage = "/version : robot info",
   patterns = {
-    "^[!/]Hidden$"
+    "^[!/]version$"
   }, 
   run = run 
 }
